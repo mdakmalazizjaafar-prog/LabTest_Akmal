@@ -64,10 +64,6 @@ Enter next 300 kWh ((301 – 600 kWh)) per month
 Enter next 300 kWh (601 - 900 kWh) per month
 <input type="text" name="block4" value="">
 <br>
-<form method ="post">
-Enter your first 200 kWh (1-200 kWh) per month
-<input type="text" name="block5" value="">
-<br>
 
 <input type="submit" name="button1" value="Calculate">
 <input type="submit" name="button2" value="Reset">
